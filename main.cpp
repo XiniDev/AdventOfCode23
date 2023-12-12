@@ -37,6 +37,14 @@ int main(int argc, char* argv[])
         &d3p2,
         &d4p1,
         &d4p2,
+        &d5p1,
+        &d5p2,
+        &d6p1,
+        &d6p2,
+        &d7p1,
+        &d7p2,
+        &d8p1,
+        &d8p2,
     };
 
     if (functionNumber >= 0 && functionNumber < 50)

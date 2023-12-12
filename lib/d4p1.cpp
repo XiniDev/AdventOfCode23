@@ -26,14 +26,16 @@ std::string d4p1(const std::vector<std::string>& p_lines)
         std::istringstream issWin(winStr);
         int winNum;
 
-        while (issWin >> winNum) {
+        while (issWin >> winNum)
+        {
             winNums.push_back(winNum);
         }
         
         std::istringstream issYour(yourStr);
         int yourNum;
 
-        while (issYour >> yourNum) {
+        while (issYour >> yourNum)
+        {
             yourNums.push_back(yourNum);
         }
 
