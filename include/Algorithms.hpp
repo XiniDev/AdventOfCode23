@@ -27,3 +27,15 @@ std::string d7p2(const std::vector<std::string>& p_lines);
 
 std::string d8p1(const std::vector<std::string>& p_lines);
 std::string d8p2(const std::vector<std::string>& p_lines);
+
+std::string d9p1(const std::vector<std::string>& p_lines);
+std::string d9p2(const std::vector<std::string>& p_lines);
+
+std::string d10p1(const std::vector<std::string>& p_lines);
+std::string d10p2(const std::vector<std::string>& p_lines);
+
+std::string d11p1(const std::vector<std::string>& p_lines);
+std::string d11p2(const std::vector<std::string>& p_lines);
+
+std::string d12p1(const std::vector<std::string>& p_lines);
+std::string d12p2(const std::vector<std::string>& p_lines);
